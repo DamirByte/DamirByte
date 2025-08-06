@@ -3,5 +3,5 @@
 <h3 align="center">A passionate Web developer from Serbia</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif">
 
-- 📫 How to reach me **damirademi.web@gmail.com**
+- 📫 How to reach me **damirademi.tech@gmail.com**
 
